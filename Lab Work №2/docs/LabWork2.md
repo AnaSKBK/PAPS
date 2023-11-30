@@ -3,6 +3,6 @@
 Тема: Разработка информационной системы прохождения интерактивных презентаций и ее интерфейса.
 
 # 1. Диаграмма системного контекста:
-![Диаграмма вариантов использования](https://github.com/AnaSKBK/PAPS/blob/LabWork1/LR_1_diag.jpg)
+![Диаграмма вариантов использования](https://github.com/AnaSKBK/PAPS/blob/LabWork2/Dia_Context.jpg)
 # 2. Диаграмма контейнеров:
-![Диаграмма вариантов использования](https://github.com/AnaSKBK/PAPS/blob/LabWork1/LR_1_diag.jpg)
+![Диаграмма вариантов использования](https://github.com/AnaSKBK/PAPS/blob/LabWork2/Dia_Container.jpg)
